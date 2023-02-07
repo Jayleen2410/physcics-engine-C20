@@ -1,2 +1,1 @@
-# physcics-engine-C20
-Colorfull balls bouncing.
+# C20-Student-boilerplate-code
